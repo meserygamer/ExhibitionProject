@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 7c930b0238481bb4c9bc93cfb19411b6
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 20231217_161624_baseColor
+    second: {fileID: 2800000, guid: fb832a147cce3714b8916e7c9113c64d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Desk_Roughness
+    second: {fileID: 2800000, guid: 7f2c81f3636e39543bf912efc4481489, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Desk_Texture
+    second: {fileID: 2800000, guid: 20eeb3c869ed19b4abdad37cf22414c5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: IMG_20231216_122805_1_baseColor
+    second: {fileID: 2800000, guid: 30a310763e32be244950ae798035d2f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: IMG_20231216_122933_baseColor
+    second: {fileID: 2800000, guid: 43042dae9d353374aa72a041da4cbb7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: IMG_20231221_234334_baseColor
+    second: {fileID: 2800000, guid: 9126f0fd170683942acd67bf9a3f681b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.002_baseColor
+    second: {fileID: 2800000, guid: 6b11e6289e1585e48a850e954bcf26bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.007_baseColor
+    second: {fileID: 2800000, guid: 2b63393cc62b1f44081d9429b5e877b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.014_baseColor
+    second: {fileID: 2800000, guid: 8ed2e2d4f3a8b0342bccef4e888fd220, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_0_baseColor
+    second: {fileID: 2800000, guid: 5124b440e81122b49982de908e3533de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_10_baseColor
+    second: {fileID: 2800000, guid: e06f4c6ea7027dc4fa241bf5b1fce46f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_11_baseColor
+    second: {fileID: 2800000, guid: f88eccba14fde2c41abd43567c29261b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_13_baseColor
+    second: {fileID: 2800000, guid: 8d4b0ded549d55b48ae9f2bff6a233ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_13_emissive
+    second: {fileID: 2800000, guid: 987373aff22a96345bed266852a74dae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_15_baseColor
+    second: {fileID: 2800000, guid: 82f4be84a9a597e4c8411df498c4ae5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_16_baseColor
+    second: {fileID: 2800000, guid: 7fb741a7ecb59db499b465bd5ecd489e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_17_baseColor
+    second: {fileID: 2800000, guid: 7f5fb08302f28bc49b36c2156c08f832, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_18_baseColor
+    second: {fileID: 2800000, guid: a9c207ea60af3304c8f190347940503c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_18_emissive
+    second: {fileID: 2800000, guid: cc96858517882704182811bbd9934dc2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_19_baseColor
+    second: {fileID: 2800000, guid: 676ff5d46214eb04cbf8bb94023674fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_1_baseColor
+    second: {fileID: 2800000, guid: fc3c479770c0e384a85705d87e6a8d70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_21_baseColor
+    second: {fileID: 2800000, guid: edf12068fa617804a90faa0dbbedaf98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_22_baseColor
+    second: {fileID: 2800000, guid: 280fcea98765a814ea66f7ee7bf872c0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_23_baseColor
+    second: {fileID: 2800000, guid: 6fa0be0f15ff39342a193a5cc6503d53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_24_baseColor
+    second: {fileID: 2800000, guid: 6e2ed58f8a93db745b3b8e962dd1d4ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_25_baseColor
+    second: {fileID: 2800000, guid: ea796af7105198846bbcc43621c9c596, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_2_baseColor
+    second: {fileID: 2800000, guid: 7c81fd1a9afcff749a8df04b9a736a10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_3_baseColor
+    second: {fileID: 2800000, guid: d747a0881e80e204b9f095a53f59e111, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_4_baseColor
+    second: {fileID: 2800000, guid: e68a54c2d6e90bb4e8767b1fb49d407d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_5_baseColor
+    second: {fileID: 2800000, guid: 21de4c0382a48c843aecfd550c5ec232, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_6_baseColor
+    second: {fileID: 2800000, guid: fa9fb99c503a357438e6ca8b1ce05211, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_7_baseColor
+    second: {fileID: 2800000, guid: 891ad1c27fe1807458f0359c07a61b7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_8_baseColor
+    second: {fileID: 2800000, guid: dd4f4062973253f4db41ae8206da9d7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material.063_9_baseColor
+    second: {fileID: 2800000, guid: df7d901072ba3c84e8799c82fbeb382c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_baseColor
+    second: {fileID: 2800000, guid: 39328c65d1fe72e419d0b3470eb431dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material_normal
+    second: {fileID: 2800000, guid: 806414322926a26488b81488d05189d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: control_pd.001_baseColor
+    second: {fileID: 2800000, guid: 709c07c7d5aa89242b6695cfecce461c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_0_baseColor
+    second: {fileID: 2800000, guid: 7390dc84f6509d14d80c4ba97d0fc601, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_0_emissive
+    second: {fileID: 2800000, guid: 8a3571bf8c5c7bc4eb4b63d8898acea4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_10_baseColor
+    second: {fileID: 2800000, guid: 4c458336acd12a247afdf37f8910910c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_11_baseColor
+    second: {fileID: 2800000, guid: 80391739ee607b54fa7792d856d14e68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_12_baseColor
+    second: {fileID: 2800000, guid: 35db02c30e7cd8d42aecc401165fcce5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_13_baseColor
+    second: {fileID: 2800000, guid: ecd312353133d7d4da688c54e2bf13ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_14_baseColor
+    second: {fileID: 2800000, guid: f4afac2d549095a49b8ce2caeb8d85d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_15_baseColor
+    second: {fileID: 2800000, guid: 7bbefd0ddaf2f9940bfa7b6b02210e49, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_16_baseColor
+    second: {fileID: 2800000, guid: 4cda3206aff95ab448e4baef5aacb4db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_17_baseColor
+    second: {fileID: 2800000, guid: 8ebbe7e8158460c43801cfbdd936df4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_1_baseColor
+    second: {fileID: 2800000, guid: 4a64c0bc46fc63d4584dcdda05a98de0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_2_baseColor
+    second: {fileID: 2800000, guid: cdca97150488c5a44a86a99ada0bafc8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_2_emissive
+    second: {fileID: 2800000, guid: 0915b38ee7ef3da478f6e6d5d68a3643, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_3_baseColor
+    second: {fileID: 2800000, guid: 545bc316a711d4a40a2886004dd7ab2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_5_baseColor
+    second: {fileID: 2800000, guid: b884b04a2e9c2664f8cf74d065c62e73, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_6_baseColor
+    second: {fileID: 2800000, guid: 2bee3550760d7de42b671ac4ecc52a71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_6_emissive
+    second: {fileID: 2800000, guid: 9d362b4a6e95a3f4ab0d8c861afe84bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_7_baseColor
+    second: {fileID: 2800000, guid: 3dddec6bd7ed44742a6fa58a65ee6222, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_7_emissive
+    second: {fileID: 2800000, guid: b0e57345ec984b24eb6b28958e4428f1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_8_baseColor
+    second: {fileID: 2800000, guid: d7237c77d10bdd94983282ffff91fec5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_9_baseColor
+    second: {fileID: 2800000, guid: 5d7050e99fa59eb4e8e062ac7b160093, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rgb-hdd-cover-aorus-v1_baseColor
+    second: {fileID: 2800000, guid: d67fa4843f9b20d43bf9b8b50be7fd6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: s-l1200_baseColor
+    second: {fileID: 2800000, guid: 95c3ac7776d37094eb17689241420742, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u041F\u043B\u0430\u043D\u0448\u0435\u0442"
+    second: {fileID: 2800000, guid: 6671303664b022f4595a97e054bcd42f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u041F\u043B\u0430\u043D\u0448\u0435\u0442AORUS"
+    second: {fileID: 2800000, guid: d355249caa403f9458f04f59b8995995, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u041F\u043B\u0430\u043D\u0448\u0435\u0442ASUS"
+    second: {fileID: 2800000, guid: ffba6130711edf945a51f4497cba3c07, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u042D\u043A\u0440\u0430\u043DASUS"
+    second: {fileID: 2800000, guid: 8aac40a3d3bf9d548abe3252684c6336, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
